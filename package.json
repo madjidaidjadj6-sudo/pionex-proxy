@@ -1,0 +1,12 @@
+{
+  "name": "pionex-proxy",
+  "version": "1.0.0",
+  "description": "CORS Proxy for Pionex API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
